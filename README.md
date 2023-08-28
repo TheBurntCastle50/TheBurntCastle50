@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TheBurntCastle50
-- 👀 I’m interested in cybersecurity, data science, machine learning, neural networks, RISC-V architecture, portable labs, & cyberdecks
-- 🌱 I’m currently learning Python, Bash scripting, web-design fundatmentals, & home networking
+- 👀 I’m interested in AI, cybersecurity, data science, machine learning, neural networks, RISC-V architecture, portable labs, & cyberdecks
+- 🌱 I’m currently learning Python, APIs, Bash scripting, web-design fundatmentals, & home networking
 - 📫 How to reach me, I don't have a preferred contact method and I am not open to contact at this time.
